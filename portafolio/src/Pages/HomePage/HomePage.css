@@ -1,0 +1,9 @@
+.content{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.green-border{
+    border: 1px solid #198754;
+}
